@@ -1,19 +1,11 @@
-# 〈 Sabarish R 〉
-
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════╗
-║   Building AI systems that defend. Breaking things to secure them. ║
-╚════════════════════════════════════════════════════════════════════╝
-```
+# Hi, I'm Sabarish R
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Cybersecurity+%26+AI+Systems+Builder+%7C+B.Tech+CSBS+%40+Panimalar)](https://git.io/typing-svg)
+### Cybersecurity | AI/ML Engineering | B.Tech CSBS '28
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+secure+backend+systems;Exploring+cybersecurity+and+threat+detection;Creating+practical+AI+and+ML+projects;Learning%2C+shipping%2C+and+improving+every+day)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sabarishr08-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabarishr08)
-[![GitHub](https://img.shields.io/badge/GitHub-SabarishR08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SabarishR08)
-[![Email](https://img.shields.io/badge/Email-sabarish.edu2024@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
 
 </div>
 
@@ -26,11 +18,20 @@ class Sabarish:
     name        = "Sabarish R"
     college     = "Panimalar Engineering College, Chennai"
     degree      = "B.Tech CSBS (Computer Science & Business Systems)"
-    year        = "2nd Year | 4th Semester | GPA: 8.2"
+    year        = "3rd Year | 5th Semester | GPA: 8.2"
     niche       = ["Cybersecurity", "AI/LLM Security", "Full Stack Development"]
     languages   = ["Python", "Java", "JavaScript", "SQL"]
-    currently   = "Building AI-powered security systems & learning DSA in Java"
+    currently   = "Building AI-powered security systems & learning DSA "
 ```
+
+## `$ Experience`
+
+| Role | Organization | Highlights |
+| --- | --- | --- |
+| Cybersecurity Intern | Shentinelix Sphere, Remote | Worked on AI-assisted threat detection, LLM prompt validation, and secure FastAPI handling |
+| Full Stack Developer Intern | SmartBridge, Remote | Built a MERN freelancing platform with auth, real-time messaging, and database integration |
+| ServiceNow Platform Administrator Intern | ServiceNow, Remote | Configured ITSM workflows, roles, ACLs, and service catalog items |
+| Cybersecurity Intern | TANSAM, Chennai | Used ethical hacking tools and built a machine-learning phishing detection system |
 
 ---
 # `$ neofetch skills`
@@ -83,9 +84,6 @@ class Sabarish:
 ✓ Google Cybersecurity Specialization          — Google                        Jun 2025
 ✓ Machine Learning Specialization              — DeepLearning.AI / Stanford    Aug 2025
 ✓ Google IT Support Specialization             — Google                        Jul 2025
-✓ GenAI Academy 2.0 (DevOps, Serverless,       — Google Cloud & Hack2skill     Jan 2026
-  Networking, AI/ML Tracks)
-✓ Gen AI Academy (Vertex AI, Gemini, RAG)      — Google Cloud & Hack2skill     Aug 2025
 ✓ Claude Code in Action                        — Anthropic                     Feb 2026
 ✓ Postman API Fundamentals – Student Expert    — Postman                       Oct 2025
 ✓ MongoDB Node.js Developer Path               — SmartBridge / MongoDB         Jan 2026
@@ -97,18 +95,12 @@ class Sabarish:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4aa&icon_color=1a56a5&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
+![Sabarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SabarishR08&theme=dark&background=0d1117&border=30363d&ring=00d4aa&fire=1a56a5&currStreakLabel=00d4aa)](https://git.io/streak-stats)
+![GitHub streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
 ## `$ ping sabarish`
@@ -123,6 +115,7 @@ Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabarishr08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
 
 <br/>
