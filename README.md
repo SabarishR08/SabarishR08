@@ -95,9 +95,6 @@ class Sabarish:
 
 <div align="center">
 
-![Sabarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
 
 </div>
@@ -125,7 +122,3 @@ Reply from sabarish: time=instant  status=AVAILABLE
 </div>
 
 ---
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SabarishR08&color=00d4aa&style=flat-square&label=Profile+Views" />
-</div>
