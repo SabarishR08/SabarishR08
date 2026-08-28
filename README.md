@@ -115,14 +115,6 @@ Based in          Chennai, India
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
 
 </div>
