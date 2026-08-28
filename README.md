@@ -6,10 +6,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+secure+backend+systems;Exploring+cybersecurity+and+threat+detection;Creating+practical+AI+and+ML+projects;Learning%2C+shipping%2C+and+improving+every+day)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sabarishr08-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarishr08)
-[![GitHub](https://img.shields.io/badge/GitHub-SabarishR08-181717?logo=github&logoColor=white)](https://github.com/SabarishR08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
-[![Email](https://img.shields.io/badge/Email-sabarishr1087%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sabarishr1087@gmail.com)
+<a href="https://www.linkedin.com/in/sabarishr08/">
+  <img align="left" alt="sabarishr08's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/SabarishR08">
+  <img align="left" alt="sabarishr08's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://sabarishr08.vercel.app">
+  <img align="left" alt="sabarishr08's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />
+</a>
+<a href="mailto:sabarishr1087@gmail.com">
+  <img align="left" alt="sabarishr08's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 
 </div>
 
@@ -138,9 +147,16 @@ Cybersecurity • AI/ML Engineering • Full Stack Development
 Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabarishr08)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarishr1087@gmail.com)
+<a href="https://www.linkedin.com/in/sabarishr08/">
+  <img align="left" alt="sabarishr08's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://sabarishr08.vercel.app">
+  <img align="left" alt="sabarishr08's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" />
+</a>
+<a href="mailto:sabarishr1087@gmail.com">
+  <img align="left" alt="sabarishr08's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<br />
 
 <br/>
 
