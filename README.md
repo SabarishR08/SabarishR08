@@ -83,22 +83,20 @@ Based in          Chennai, India
 
 <div align="center">
 
-<table><tr><td>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</td><td>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true" />
-</td></tr></table>
+![Sabarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
 
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SabarishR08&theme=tokyonight&no-frame=true&row=1&column=7)
+
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SabarishR08&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SabarishR08&theme=tokyo-night&hide_border=true" />
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SabarishR08&theme=tokyo-night&hide_border=true)
+
 </div>
 
 <div align="center">
