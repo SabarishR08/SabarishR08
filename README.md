@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sabarishr08-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarishr08)
 [![GitHub](https://img.shields.io/badge/GitHub-SabarishR08-181717?logo=github&logoColor=white)](https://github.com/SabarishR08)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
-[![Email](https://img.shields.io/badge/Email-sabarish.edu2024%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sabarishr1087%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sabarishr1087@gmail.com)
 
 </div>
 
@@ -148,7 +148,7 @@ Reply from sabarish: time=instant  status=AVAILABLE
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sabarishr08)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarishr1087@gmail.com)
 
 <br/>
 
