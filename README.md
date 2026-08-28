@@ -134,16 +134,16 @@ Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sabarishr08/">
+<a href="https://www.linkedin.com/in/sabarishr08/" style="text-decoration:none">
   <img align="center" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/SabarishR08">
+<a href="https://github.com/SabarishR08" style="text-decoration:none">
   <img align="center" alt="Sabarish's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="filter: invert(1)" />
 </a>&nbsp;&nbsp;
-<a href="https://sabarishr08.vercel.app">
+<a href="https://sabarishr08.vercel.app" style="text-decoration:none">
   <img align="center" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
 </a>&nbsp;&nbsp;
-<a href="mailto:sabarishr1087@gmail.com">
+<a href="mailto:sabarishr1087@gmail.com" style="text-decoration:none">
   <img align="center" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
 </a>
 </p>
