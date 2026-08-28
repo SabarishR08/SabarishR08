@@ -6,20 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+secure+backend+systems;Exploring+cybersecurity+and+threat+detection;Creating+practical+AI+and+ML+projects;Learning%2C+shipping%2C+and+improving+every+day)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/sabarishr08/">
-  <img align="left" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
-</a>
-<a href="https://github.com/SabarishR08">
-  <img align="left" alt="Sabarish's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="filter: invert(1)" />
-</a>
-<a href="https://sabarishr08.vercel.app">
-  <img align="left" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
-</a>
-<a href="mailto:sabarishr1087@gmail.com">
-  <img align="left" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
-</a>
-<br clear="left"/>
-
 </div>
 
 ---
@@ -148,17 +134,17 @@ Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
 <a href="https://www.linkedin.com/in/sabarishr08/">
-  <img align="left" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
+  <img align="center" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
+</a>
+<a href="https://github.com/SabarishR08">
+  <img align="center" alt="Sabarish's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="filter: invert(1)" />
 </a>
 <a href="https://sabarishr08.vercel.app">
-  <img align="left" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
+  <img align="center" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
 </a>
 <a href="mailto:sabarishr1087@gmail.com">
-  <img align="left" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
+  <img align="center" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
 </a>
-<br clear="left"/>
-
-<br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
 
