@@ -11,8 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-sabarishr08.vercel.app-38BDF8?logo=vercel&logoColor=white)](https://sabarishr08.vercel.app)
 [![Email](https://img.shields.io/badge/Email-sabarish.edu2024%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -30,6 +28,12 @@ class Sabarish:
     currently   = "Building AI-powered security systems & learning DSA "
 ```
 
+```txt
+Focus areas       Cybersecurity, Backend Development, Applied ML
+Current degree    B.Tech CSBS, 2024-2028
+Based in          Chennai, India
+```
+
 ## `$ Experience`
 
 | Role | Organization | Highlights |
@@ -38,6 +42,16 @@ class Sabarish:
 | Full Stack Developer Intern | SmartBridge, Remote | Built a MERN freelancing platform with auth, real-time messaging, and database integration |
 | ServiceNow Platform Administrator Intern | ServiceNow, Remote | Configured ITSM workflows, roles, ACLs, and service catalog items |
 | Cybersecurity Intern | TANSAM, Chennai | Used ethical hacking tools and built a machine-learning phishing detection system |
+
+## What I Build
+
+| Area | Work |
+| --- | --- |
+| Backend Engineering | REST APIs, authentication flows, Flask/FastAPI services |
+| Cybersecurity | Threat detection tools, phishing detection, log analysis |
+| Full Stack | MERN applications with real-time features and database integration |
+| AI/ML | Practical machine learning systems and LLM-assisted workflows |
+| Integrations | Gmail API, VirusTotal, Brevo, Gemini API |
 
 ---
 # `$ neofetch skills`
@@ -101,15 +115,19 @@ class Sabarish:
 
 <div align="center">
 
-![Sabarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SabarishR08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SabarishR08&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
+</div>
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=SabarishR08&theme=tokyonight&no-frame=true&row=1&column=7)
+<div align="center">
 
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SabarishR08&theme=tokyo-night&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SabarishR08&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/SabarishR08/SabarishR08/output/github-snake-dark.svg)
 
@@ -133,6 +151,8 @@ Reply from sabarish: time=instant  status=AVAILABLE
 [![Email](https://img.shields.io/badge/Drop_a_Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabarish.edu2024@gmail.com)
 
 <br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
 
 *"Security is not a product, but a process — and I'm here to build that process."*
 
