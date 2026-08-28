@@ -133,18 +133,20 @@ Cybersecurity • AI/ML Engineering • Full Stack Development
 Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
+<p align="center">
 <a href="https://www.linkedin.com/in/sabarishr08/">
   <img align="center" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/SabarishR08">
   <img align="center" alt="Sabarish's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="filter: invert(1)" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://sabarishr08.vercel.app">
   <img align="center" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:sabarishr1087@gmail.com">
   <img align="center" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
 </a>
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
 
