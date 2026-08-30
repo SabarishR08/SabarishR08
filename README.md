@@ -100,8 +100,8 @@ Based in          Chennai, India
 ✓ Google IT Support Specialization             — Google                        Jul 2025
 ✓ Claude Code in Action                        — Anthropic                     Feb 2026
 ✓ Postman API Fundamentals – Student Expert    — Postman                       Oct 2025
-✓ MongoDB Node.js Developer Path               — SmartBridge / MongoDB         Jan 2026
-✓ ServiceNow Certified System Administrator    — ServiceNow                  Aug 2026
+✓ MongoDB Node.js Developer Path               — MongoDB                       Jan 2026
+✓ ServiceNow Certified System Administrator    — ServiceNow                    Aug 2026
 ```
 
 ---
