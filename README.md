@@ -134,17 +134,17 @@ Reply from sabarish: time=instant  status=AVAILABLE
 ```
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sabarishr08/" style="text-decoration:none">
-  <img align="center" alt="Sabarish's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" style="filter: invert(1)" />
+<a href="https://www.linkedin.com/in/sabarishr08/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>&nbsp;&nbsp;
-<a href="https://github.com/SabarishR08" style="text-decoration:none">
-  <img align="center" alt="Sabarish's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" style="filter: invert(1)" />
+<a href="https://github.com/SabarishR08">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>&nbsp;&nbsp;
-<a href="https://sabarishr08.vercel.app" style="text-decoration:none">
-  <img align="center" alt="Sabarish's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vercel.svg" style="filter: invert(1)" />
+<a href="https://sabarishr08.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>&nbsp;&nbsp;
-<a href="mailto:sabarishr1087@gmail.com" style="text-decoration:none">
-  <img align="center" alt="Sabarish's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" style="filter: invert(1)" />
+<a href="mailto:sabarishr1087@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
 
