@@ -150,8 +150,6 @@ Reply from sabarish: time=instant  status=AVAILABLE
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
 
-*"Security is not a product, but a process — and I'm here to build that process."*
-
 </div>
 
 ---
