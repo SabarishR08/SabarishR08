@@ -40,13 +40,16 @@ Based in          Chennai, India
 
 ## What I Build
 
+**Flagship projects:** [mailforensic-ai](https://github.com/SabarishR08/mailforensic-ai) (deep email forensics, SIH) , [llm-guardian](https://github.com/SabarishR08/llm-guardian) (LLM/agent security firewall) , [VeriGround](https://github.com/SabarishR08/VeriGround) (RAG claim verification) , [lexclear](https://github.com/SabarishR08/lexclear) (legal AI) , [agentflow-productivity-assistant](https://github.com/SabarishR08/agentflow-productivity-assistant) (multi-agent assistant) , [policy-pilot-hackrx6](https://github.com/SabarishR08/policy-pilot-hackrx6) (document RAG)
+
 | Area | Work |
 | --- | --- |
-| Backend Engineering | REST APIs, authentication flows, Flask/FastAPI services |
-| Cybersecurity | Threat detection tools, phishing detection, log analysis |
-| Full Stack | MERN applications with real-time features and database integration |
-| AI/ML | Practical machine learning systems and LLM-assisted workflows |
+| Cybersecurity | [mailforensic-ai](https://github.com/SabarishR08/mailforensic-ai) - SPF/DKIM/DMARC forensics, phishing ML ensemble, QRishing decode ; [llm-guardian](https://github.com/SabarishR08/llm-guardian) - prompt-injection, PII-leak and MCP tool-call firewall |
+| Backend Engineering | REST APIs, authentication flows, FastAPI/Flask services, log-analysis engines |
+| Full Stack | MERN applications with real-time features ([freelancing-platform-mern](https://github.com/SabarishR08/freelancing-platform-mern)) |
+| AI/ML | Applied ML systems and LLM workflows ([ai-network-attack-forecasting](https://github.com/SabarishR08/ai-network-attack-forecasting), [policy-pilot-hackrx6](https://github.com/SabarishR08/policy-pilot-hackrx6)) |
 | Integrations | Gmail API, VirusTotal, Brevo, Gemini API |
+| Developer Tools | [leetpush](https://github.com/SabarishR08/leetpush) - self-hosted LeetCode-to-GitHub sync |
 
 ---
 # `$ neofetch skills`
