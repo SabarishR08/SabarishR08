@@ -1,0 +1,93 @@
+# Sabarish R — Background Archive & Complete Record
+Updated: October 2026
+
+Refer to this file for complete descriptions, previous internship logs, extended repo summaries, and full credential references.
+
+---
+
+1. COMPLETE PROJECT CATALOG
+===========================
+
+[LLM Guardian]
+Repo: https://github.com/SabarishR08/llm-guardian
+Stack: Python, FastAPI, Redis, Next.js, MCP, WebSockets
+Details: Unified guardrail firewall for LLM apps and agents. 10 real-time detectors for prompt injection, PII leakage, toxicity, and malicious URLs. Includes Model Context Protocol (MCP) tool-call security to stop tool poisoning and data exfiltration, Redis telemetry, and SOC HUD.
+
+[MailForensic AI]
+Repo: https://github.com/SabarishR08/mailforensic-ai
+Live Demo: https://sih26106-email-forensics.onrender.com/dashboard
+Stack: Python, Flask, Scikit-learn, XGBoost, LightGBM, DistilBERT, VirusTotal, AbuseIPDB, ReportLab
+Details: SIH 2026 flagship platform. 3-model ML phishing ensemble (98.9% accuracy). Deep RFC 5322 header forensics (SPF, DKIM, DMARC), per-hop IP route tracing, multi-source intelligence fusion (VirusTotal, SafeBrowsing, PhishTank, AbuseIPDB), live threat map, forensic PDF generator, and URL-guard browser extension.
+
+[AutoTriage]
+Repo: https://github.com/SabarishR08/autotriage
+Stack: Python, FastAPI, PostgreSQL, LLM API, GitHub API, Docker
+Details: Autonomous backend observability platform. Ingests runtime logs, maps stack traces to source code via GitHub AST, identifies root causes, and automatically opens deploy-ready PR bug fixes.
+
+[VeriGround]
+Repo: https://github.com/SabarishR08/VeriGround
+Stack: Python, JavaScript, PyTorch, NLI, FAISS
+Details: Claim-level verification framework for RAG systems. Decomposes outputs into atomic claims, audits each against retrieved context using semantic embeddings + NLI, and surfaces Supported/Unsupported verdicts with citations. Ongoing first-author paper in IEEE format.
+
+[PathFinder AI]
+Live App: https://pathfinder-ai.vercel.app/
+Stack: Next.js 16, TypeScript, Prisma, Supabase, PyTorch, ONNX, LLM API
+Details: 3rd Place National Finalist (HCLTech AMPlified Season 1, Team Lead). Ingests GitHub/LeetCode proof into a Noisy-OR model, schedules 211-skill prerequisite DAG via Kahn's algorithm, and deploys a fine-tuned bi-encoder ONNX model (32MB, 93.8% Recall@5).
+
+[Edge LLM Bench]
+Repo: https://github.com/SabarishR08/edge-llm-bench
+Stack: Python, FastAPI, Ollama, Flutter, Android
+Details: Local LLM profiler measuring TTFT, tokens/sec, latency, peak RAM, and MMLU accuracy. Hardware heuristic engine recommending optimal models for resource-constrained hardware with a Flutter Android remote app.
+
+[AI Network Attack Forecasting]
+Repo: https://github.com/SabarishR08/ai-network-attack-forecasting
+Stack: Python, Deep Learning, FastAPI, Streamlit
+Details: SIH 26153 (NTRO) sequence models for predictive SOC defense, forecasting multi-step network attacks from flow sequences and mapping to MITRE ATT&CK techniques.
+
+[Other Noteworthy Repos]
+- cyber-killchain-reconstruction-engine: Attack timeline reconstruction mapped to MITRE ATT&CK.
+- web-threat-monitoring-system: Browser extension phishing guard presented at IEEE ICAICCIT 2025.
+- freelancing-platform-mern: Full-stack MERN marketplace with real-time Socket.io chat and JWT auth.
+- digital-qr-prescription: Secure encrypted QR prescription ledger with RBAC for healthcare.
+- policy-pilot-hackrx6: TinyLlama + FAISS RAG assistant parsing insurance policies.
+- agentflow-productivity-assistant: Multi-agent coordination with Google ADK on Cloud Run.
+- leetpush: Privacy-focused extension syncing accepted LeetCode solutions to GitHub.
+
+---
+
+2. DETAILED INTERNSHIP LOGS
+===========================
+
+* Learnix Labs (Jun 2026 – Jul 2026 | Remote)
+  Role: Linux & DevOps Intern
+  Award: Featured Outstanding Intern (July Cohort)
+  Key Tasks: Automated Bash monitors via cron; systemd service management behind hardened Nginx reverse proxy with UFW; resilience chaos testing.
+
+* SmartBridge x AICTE (Dec 2025 – Jan 2026 | Remote)
+  Role: Full Stack Developer Intern (MERN)
+  Key Tasks: Built full-stack marketplace with real-time messaging, JWT auth, MongoDB schemas. Completed MongoDB Node.js Developer Path certification.
+
+* Shentinelix Sphere (Sep 2025 – Dec 2025 | Remote)
+  Role: Cybersecurity Intern
+  Key Tasks: AI threat detection, LLM prompt validation (PII redaction, injection defense), SOC log analysis, Snort IDS rules, Active Directory attack labs.
+
+* ServiceNow x SmartBridge x AICTE (Jun 2025 – Jul 2025 | Remote)
+  Role: ServiceNow Platform Admin Intern
+  Key Tasks: ITSM modules automation (Incident, Request, Change, Problem), Flow Designer, ACLs and roles configuration. Cleared official ServiceNow CSA exam.
+
+* TANSAM (TIDCO x Siemens) (Apr 2025 | Chennai)
+  Role: Cybersecurity Intern
+  Key Tasks: Ethical hacking tools (Kali Linux, John the Ripper, Wireshark), ML phishing classifier with Scikit-learn + NLP, Gmail and CheckPhish APIs.
+
+---
+
+3. DETAILED CERTIFICATIONS DIRECTORY
+===================================
+- Microsoft Certified: Azure AI Fundamentals (AI-900) [Oct 2026] (ID: C4A5FE5B4A547BF6)
+- ServiceNow Certified System Administrator (CSA) [Aug 2026] (Credly: c2226af9-eb44-49ac-8d08-8e384a76265c)
+- Machine Learning Specialization (DeepLearning.AI / Stanford) [Aug 2025] (ID: 3O0R4XJ7M5SZ)
+- Google Cybersecurity Specialization (Google) [Jun 2025] (ID: JA9ESF6IQKHT)
+- Google IT Support Specialization (Google) [Jul 2025]
+- Claude Code in Action (Anthropic) [Feb 2026]
+- MongoDB Node.js Developer Path (SmartBridge / MongoDB) [Jan 2026]
+- Postman API Fundamentals – Student Expert (Postman) [Oct 2025]
