@@ -197,12 +197,15 @@
 ![Snake animation](https://raw.githubusercontent.com/SabarishR08/SabarishR08/output/github-snake-dark.svg)
 
 <p align="center">
-  <sub>Open to security engineering, AI guardrails, and backend roles & research.</sub><br/>
-  <a href="https://sabarishr08.vercel.app"><b>Portfolio</b></a> ·
-  <a href="https://sabarish-blog.vercel.app"><b>Blog</b></a> ·
-  <a href="https://www.linkedin.com/in/sabarishr08/"><b>LinkedIn</b></a> ·
-  <a href="https://tryhackme.com/p/SabarishR08"><b>TryHackMe</b></a> ·
-  <a href="mailto:sabarishr1087@gmail.com"><b>Email</b></a>
+  <sub>Open to security engineering, AI guardrails, and backend roles & research.</sub>
+</p>
+
+<p align="center">
+  <a href="https://sabarishr08.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://sabarish-blog.vercel.app"><img src="https://img.shields.io/badge/Tech_Blog-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Blog" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sabarishr08/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/SabarishR08"><img src="https://img.shields.io/badge/TryHackMe-C1272D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>&nbsp;&nbsp;
+  <a href="mailto:sabarishr1087@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
