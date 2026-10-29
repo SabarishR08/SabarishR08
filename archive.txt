@@ -30,7 +30,7 @@ Stack: Python, JavaScript, PyTorch, NLI, FAISS
 Details: Claim-level verification framework for RAG systems. Decomposes outputs into atomic claims, audits each against retrieved context using semantic embeddings + NLI, and surfaces Supported/Unsupported verdicts with citations. Ongoing first-author paper in IEEE format.
 
 [PathFinder AI]
-Live App: https://pathfinder-ai.vercel.app/
+Demo: https://lnkd.in/p/gUuyRsi9
 Stack: Next.js 16, TypeScript, Prisma, Supabase, PyTorch, ONNX, LLM API
 Details: 3rd Place National Finalist (HCLTech AMPlified Season 1, Team Lead). Ingests GitHub/LeetCode proof into a Noisy-OR model, schedules 211-skill prerequisite DAG via Kahn's algorithm, and deploys a fine-tuned bi-encoder ONNX model (32MB, 93.8% Recall@5).
 

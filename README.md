@@ -92,7 +92,7 @@
         <b>HCLTech AMPlified 3rd Place</b> platform: maps demonstrated GitHub/LeetCode proof across a 211-skill prerequisite DAG with a fine-tuned bi-encoder (Recall@5: 56.9% → 93.8%, 32MB on-device model).
       </td>
       <td>
-        <a href="https://pathfinder-ai.vercel.app/"><img src="https://img.shields.io/badge/Live-App-blue?style=flat-square" /></a>
+        <a href="https://lnkd.in/p/gUuyRsi9"><img src="https://img.shields.io/badge/Demo_Video-LinkedIn-0A66C2?style=flat-square&logo=linkedin" /></a>
       </td>
     </tr>
     <tr>
