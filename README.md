@@ -124,8 +124,6 @@
   </tbody>
 </table>
 
-> 📁 *Complete catalog of 15+ additional tools, security scripts, and architectures archived in [archive.txt](archive.txt).*
-
 ---
 
 ## 💼 Experience & Certifications (Snapshot)
@@ -151,7 +149,6 @@
         <li>✓ <b>Claude Code in Action</b> — Anthropic</li>
         <li>✓ <b>MongoDB Node.js Developer Path</b> — SmartBridge</li>
       </ul>
-      <p align="right"><sub><a href="archive.txt">View credential IDs in archive.txt →</a></sub></p>
     </td>
   </tr>
 </table>
