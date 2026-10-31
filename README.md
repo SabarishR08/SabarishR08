@@ -211,6 +211,4 @@ Cybersecurity and applied-AI engineer building LLM security guardrails, SOC auto
   <a href="mailto:sabarishr1087@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=SabarishR08&color=38BDF8&style=flat-square&label=Profile+Views)
-
 </div>
